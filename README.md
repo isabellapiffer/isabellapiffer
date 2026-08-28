@@ -131,24 +131,7 @@ Aplicação em React com componentização, formulário e gerenciamento de estad
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## `06 //` SYSTEM_METRICS
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=isabellapiffer&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF2E88&text_color=FF8FC7&icon_color=FF2E88" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellapiffer&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF2E88&text_color=FF8FC7" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=isabellapiffer&hide_border=true&background=0D1117&stroke=FF2E88&ring=FF2E88&fire=FF8FC7&currStreakLabel=FF2E88&sideLabels=FF8FC7&dates=FF8FC7&currStreakNum=FF8FC7&sideNums=FF8FC7" />
-
-</div>
-
-<br/>
-
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-## `07 //` CONNECT
+## `06 //` CONNECT
 
 <div align="center">
 
