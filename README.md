@@ -100,7 +100,7 @@ Aplicação em React com componentização, formulário e gerenciamento de estad
 ![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=FF2E88)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=FF2E88)
 
-[![Ver repositório](https://img.shields.io/badge/VER_REPOSITÓRIO-FF2E88?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/isabellapiffer/tecboard)
+[tecboard](https://github.com/isabellapiffer/tecboard)
 
 `STATUS: em desenvolvimento`
 
@@ -113,7 +113,7 @@ Aplicação em React com componentização, formulário e gerenciamento de estad
 ## `05 //` PROJECT_ARCHIVE
 
 | Projeto | Sobre |
-|---|---|
+|:---|:---|
 | [buscadorGitHub](https://github.com/isabellapiffer/buscadorGitHub) | Busca perfis do GitHub consumindo a API · JavaScript |
 | [VetForVet](https://github.com/isabellapiffer/VetForVet) | Sistema de agendamentos para clínica veterinária · em pausa |
 | [Carrinhodecompras](https://github.com/isabellapiffer/Carrinhodecompras) | Carrinho de compras · JavaScript |
