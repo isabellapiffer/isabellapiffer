@@ -85,32 +85,7 @@ STATUS      : ONLINE · aberta a oportunidades
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## `04 //` FEATURED_PROJECT
-
-<div align="center">
-
-### TecBoard
-
-**Mural de eventos de tecnologia, organizados por tema.**
-
-Aplicação em React com componentização, formulário e gerenciamento de estado.
-
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=FF2E88)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=FF2E88)
-![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=FF2E88)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=FF2E88)
-
-[![Ver repositório](https://img.shields.io/badge/VER_REPOSITÓRIO-FF2E88?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/isabellapiffer/tecboard)
-
-`STATUS: em desenvolvimento`
-
-</div>
-
-<br/>
-
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-## `05 //` PROJECT_ARCHIVE
+## `04 //` PROJECT_ARCHIVE
 
 Projetos anteriores — o caminho até aqui.
 
@@ -124,7 +99,7 @@ Projetos anteriores — o caminho até aqui.
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## `06 //` SYSTEM_METRICS
+## `05 //` SYSTEM_METRICS
 
 <div align="center">
 
@@ -141,7 +116,7 @@ Projetos anteriores — o caminho até aqui.
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## `07 //` CONNECT
+## `06 //` CONNECT
 
 <div align="center">
 
