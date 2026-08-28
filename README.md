@@ -117,6 +117,5 @@ STATUS      : ONLINE · aberta a oportunidades
 
 <br/>
 
-`> connection established_`
 
 </div>
