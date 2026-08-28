@@ -85,21 +85,53 @@ STATUS      : ONLINE · aberta a oportunidades
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## `04 //` PROJECT_ARCHIVE
+## `04 //` FEATURED_PROJECT
 
-Projetos anteriores — o caminho até aqui.
+<div align="center">
 
-| Projeto | Stack | Sobre |
-|---|---|---|
-| [projetoYas](https://github.com/isabellapiffer) | HTML · CSS · JS | _(escreva 1 linha aqui)_ |
-| [nodejs](https://github.com/isabellapiffer) | Node.js | Primeiros passos com back-end |
-| [3781-javascript](https://github.com/isabellapiffer) | JavaScript | Fundamentos, DOM e lógica |
+### TecBoard
+
+**Mural de eventos de tecnologia, organizados por tema.**
+
+Aplicação em React com componentização, formulário e gerenciamento de estado.
+
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=FF2E88)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=FF2E88)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=FF2E88)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=FF2E88)
+
+[![Ver repositório](https://img.shields.io/badge/VER_REPOSITÓRIO-FF2E88?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/isabellapiffer/tecboard)
+
+`STATUS: em desenvolvimento`
+
+</div>
 
 <br/>
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## `05 //` SYSTEM_METRICS
+## `05 //` PROJECT_ARCHIVE
+
+| Projeto | Sobre |
+|---|---|
+| [buscadorGitHub](https://github.com/isabellapiffer/buscadorGitHub) | Busca perfis do GitHub consumindo a API · JavaScript |
+| [VetForVet](https://github.com/isabellapiffer/VetForVet) | Sistema de agendamentos para clínica veterinária · em pausa |
+| [Carrinhodecompras](https://github.com/isabellapiffer/Carrinhodecompras) | Carrinho de compras · JavaScript |
+| [ingresso](https://github.com/isabellapiffer/ingresso) | Compra de ingressos · JavaScript |
+| [amigosecreto](https://github.com/isabellapiffer/amigosecreto) | Sorteio de amigo secreto · JavaScript |
+| [fokus-projeto-base](https://github.com/isabellapiffer/fokus-projeto-base) | Timer de foco e produtividade · JavaScript |
+
+<div align="center">
+
+[![Ver todos os repositórios](https://img.shields.io/badge/VER_TODOS_OS_REPOSITÓRIOS-FF2E88?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/isabellapiffer?tab=repositories)
+
+</div>
+
+<br/>
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## `06 //` SYSTEM_METRICS
 
 <div align="center">
 
@@ -116,7 +148,7 @@ Projetos anteriores — o caminho até aqui.
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## `06 //` CONNECT
+## `07 //` CONNECT
 
 <div align="center">
 
