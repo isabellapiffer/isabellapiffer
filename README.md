@@ -4,7 +4,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF2E88&center=true&vCenter=true&width=600&lines=Front-end+Developer;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Construindo+o+TecBoard+em+React;Sempre+aprendendo%2C+sempre+evoluindo)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF2E88&center=true&vCenter=true&width=600&lines=Front-end+Developer;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Construindo+o+TecBoard+em+React;Sempre+aprendendo%2C+sempre+evoluindo)
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-FF2E88?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/FOCUS-FRONT--END-FF2E88?style=for-the-badge&labelColor=0D1117" />
