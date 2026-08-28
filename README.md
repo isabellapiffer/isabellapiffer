@@ -50,7 +50,7 @@ const isabella = {
 ![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=FF8FC7)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF8FC7)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF8FC7)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=FF8FC7)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iJTIzRkY4RkM3Ij48cGF0aCBkPSJNMjMuMTUgMi41ODdMMTguMjEuMjFhMS40OTQgMS40OTQgMCAwIDAtMS43MDUuMjlsLTkuNDYgOC42My00LjEyLTMuMTI4YS45OTkuOTk5IDAgMCAwLTEuMjc2LjA1N0wuMzI3IDcuMjYxQTEgMSAwIDAgMCAuMzI2IDguNzRMMy44OTkgMTIgLjMyNiAxNS4yNmExIDEgMCAwIDAgLjAwMSAxLjQ3OUwxLjY1IDE3Ljk0YS45OTkuOTk5IDAgMCAwIDEuMjc2LjA1N2w0LjEyLTMuMTI4IDkuNDYgOC42M2ExLjQ5MiAxLjQ5MiAwIDAgMCAxLjcwNC4yOWw0Ljk0Mi0yLjM3N0ExLjUgMS41IDAgMCAwIDI0IDIwLjA2VjMuOTM5YTEuNSAxLjUgMCAwIDAtLjg1LTEuMzUyem0tNS4xNDYgMTQuODYxTDEwLjgyNiAxMmw3LjE3OC01LjQ0OHYxMC44OTZ6Ii8%2BPC9zdmc%2B)
 
 **Back-end & Dados**
 
@@ -85,35 +85,11 @@ STATUS      : ONLINE · aberta a oportunidades
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## `04 //` FEATURED_PROJECT
-
-<div align="center">
-
-### TecBoard
-
-**Mural de eventos de tecnologia, organizados por tema.**
-
-Aplicação em React com componentização, formulário e gerenciamento de estado.
-
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=FF2E88)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=FF2E88)
-![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=FF2E88)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=FF2E88)
-
-[tecboard](https://github.com/isabellapiffer/tecboard)
-
-`STATUS: em desenvolvimento`
-
-</div>
-
-<br/>
-
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-## `05 //` PROJECT_ARCHIVE
+## `04 //` PROJECTS
 
 | Projeto | Sobre |
 |:---|:---|
+| [tecboard](https://github.com/isabellapiffer/tecboard) | Mural de eventos de tecnologia organizados por tema · React · **em desenvolvimento** |
 | [buscadorGitHub](https://github.com/isabellapiffer/buscadorGitHub) | Busca perfis do GitHub consumindo a API · JavaScript |
 | [VetForVet](https://github.com/isabellapiffer/VetForVet) | Sistema de agendamentos para clínica veterinária · em pausa |
 | [Carrinhodecompras](https://github.com/isabellapiffer/Carrinhodecompras) | Carrinho de compras · JavaScript |
@@ -131,11 +107,11 @@ Aplicação em React com componentização, formulário e gerenciamento de estad
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## `06 //` CONNECT
+## `05 //` CONNECT
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF2E88)](https://www.linkedin.com/in/isabella-piffer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iJTIzRkYyRTg4Ij48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/isabella-piffer)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF2E88)](https://github.com/isabellapiffer)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2E88)](mailto:pifferisabella@gmail.com)
 
