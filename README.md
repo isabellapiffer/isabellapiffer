@@ -95,7 +95,7 @@ STATUS      : ONLINE · aberta a oportunidades
 |:---|:---|
 | ⭐ [cinelogo](https://github.com/isabellapiffer/cinelogo) · [ver online](https://cinelogo.vercel.app) | Lista de filmes para assistir, com busca na API do TMDB · React · Vite |
 | [tecboard](https://github.com/isabellapiffer/tecboard) | Mural de eventos de tecnologia organizados por tema · React |
-| [buscadorGitHub](https://github.com/isabellapiffer/buscadorGitHub) | Busca perfis do GitHub consumindo a API · JavaScript |
+| [buscadorGitHub](https://github.com/isabellapiffer/buscadorGitHub) · [ver online](https://buscador-github-two.vercel.app) | Busca perfis do GitHub consumindo a API · JavaScript |
 | [carrinho-de-compras](https://github.com/isabellapiffer/carrinho-de-compras) · [ver online](https://carrinho-de-compras-kappa-teal.vercel.app) | Carrinho de compras · JavaScript |
 | [ingresso](https://github.com/isabellapiffer/ingresso) | Compra de ingressos · JavaScript |
 | [amigoSecreto](https://github.com/isabellapiffer/amigoSecreto) | Sorteio de amigo secreto · JavaScript |
