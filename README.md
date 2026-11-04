@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/25a353c5-08dc-44d9-b9f1-f7d83e2a37ee" alt="Isabella Piffer — Fullstack Developer" width="100%" />
+<img src="./banner.svg" alt="Isabella Piffer — Fullstack Developer" width="100%" />
 
 <br/>
 
