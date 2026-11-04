@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/25a353c5-08dc-44d9-b9f1-f7d83e2a37ee" alt="Isabella Piffer — Front-end Developer" width="100%" />
+<img src="https://github.com/user-attachments/assets/25a353c5-08dc-44d9-b9f1-f7d83e2a37ee" alt="Isabella Piffer — Fullstack Developer" width="100%" />
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF2E88&center=true&vCenter=true&width=600&lines=Front-end+Developer;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Construindo+o+TecBoard+em+React;Sempre+aprendendo%2C+sempre+evoluindo)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF2E88&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%7C+Node.js+%7C+Python+%7C+SQL;Do+front-end+ao+banco+de+dados;Sempre+aprendendo%2C+sempre+evoluindo)
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-FF2E88?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/FOCUS-FRONT--END-FF2E88?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FOCUS-FULLSTACK-FF2E88?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/BASED_IN-BRAZIL-FF2E88?style=for-the-badge&labelColor=0D1117" />
 
 </div>
@@ -21,9 +21,10 @@
 ```javascript
 const isabella = {
   nome:      "Isabella Piffer",
-  cargo:     "Front-end Developer",
-  stack:     ["React", "JavaScript", "HTML", "CSS"],
-  estudando: "React — componentes, estado e consumo de API",
+  cargo:     "Fullstack Developer em formação",
+  frontend:  ["React", "JavaScript", "HTML", "CSS"],
+  backend:   ["Node.js", "Python", "SQL"],
+  estudando: "Node.js e Python no back-end, SQL e bancos de dados",
   criando:   "PontoVet",
 };
 ```
@@ -52,7 +53,10 @@ const isabella = {
 
 **Back-end & Dados**
 
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=FF8FC7)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=FF2E88)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FF2E88)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=FF2E88)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=FF8FC7)
 ![JSON Server](https://img.shields.io/badge/JSON_Server-0D1117?style=for-the-badge&logo=json&logoColor=FF8FC7)
 
 </div>
@@ -68,12 +72,14 @@ const isabella = {
 
 [ OK ] Perfil carregado
 [ OK ] Módulos de front-end ativos
+[ .. ] Carregando back-end (Node.js · Python · SQL)
 [ OK ] Conexão com o café estabelecida
 
-ROLE        : Front-end Developer
-STACK       : React · JavaScript · HTML · CSS
-BUILDING    : TecBoard
-STUDYING    : React (estado, hooks, consumo de API)
+ROLE        : Fullstack Developer em formação
+FRONT-END   : React · JavaScript · HTML · CSS
+BACK-END    : Node.js · Python · SQL
+BUILDING    : PontoVet
+STUDYING    : Node.js, Python e bancos de dados
 STATUS      : ONLINE · aberta a oportunidades
 
 > awaiting next challenge... █
@@ -87,13 +93,13 @@ STATUS      : ONLINE · aberta a oportunidades
 
 | Projeto | Sobre |
 |:---|:---|
-| [tecboard](https://github.com/isabellapiffer/tecboard) | Mural de eventos de tecnologia organizados por tema · React · **em desenvolvimento** |
+| ⭐ [cinelogo](https://github.com/isabellapiffer/cinelogo) · [ver online](https://cinelogo.vercel.app) | Lista de filmes para assistir, com busca na API do TMDB · React · Vite |
+| [tecboard](https://github.com/isabellapiffer/tecboard) | Mural de eventos de tecnologia organizados por tema · React |
 | [buscadorGitHub](https://github.com/isabellapiffer/buscadorGitHub) | Busca perfis do GitHub consumindo a API · JavaScript |
-| [VetForVet](https://github.com/isabellapiffer/VetForVet) | Sistema de agendamentos para clínica veterinária · em pausa |
-| [Carrinhodecompras](https://github.com/isabellapiffer/Carrinhodecompras) | Carrinho de compras · JavaScript |
+| [carrinho-de-compras](https://github.com/isabellapiffer/carrinho-de-compras) · [ver online](https://carrinho-de-compras-kappa-teal.vercel.app) | Carrinho de compras · JavaScript |
 | [ingresso](https://github.com/isabellapiffer/ingresso) | Compra de ingressos · JavaScript |
-| [amigosecreto](https://github.com/isabellapiffer/amigosecreto) | Sorteio de amigo secreto · JavaScript |
-| [fokus-projeto-base](https://github.com/isabellapiffer/fokus-projeto-base) | Timer de foco e produtividade · JavaScript |
+| [amigoSecreto](https://github.com/isabellapiffer/amigoSecreto) | Sorteio de amigo secreto · JavaScript |
+| [Fokus-Projeto-Base](https://github.com/isabellapiffer/Fokus-Projeto-Base) | Timer de foco no estilo Pomodoro · JavaScript |
 
 <div align="center">
 
