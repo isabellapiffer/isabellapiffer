@@ -24,9 +24,7 @@ const isabella = {
   cargo:     "Front-end Developer",
   stack:     ["React", "JavaScript", "HTML", "CSS"],
   estudando: "React — componentes, estado e consumo de API",
-  criando:   "TecBoard",
-  foco:      "interfaces limpas e código que outra pessoa consiga ler",
-  mindset:   "quebra, entende, reconstrói."
+  criando:   "PontoVet",
 };
 ```
 
