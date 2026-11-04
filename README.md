@@ -99,7 +99,7 @@ STATUS      : ONLINE · aberta a oportunidades
 | [carrinho-de-compras](https://github.com/isabellapiffer/carrinho-de-compras) · [ver online](https://carrinho-de-compras-kappa-teal.vercel.app) | Carrinho de compras · JavaScript |
 | [ingresso](https://github.com/isabellapiffer/ingresso) | Compra de ingressos · JavaScript |
 | [amigoSecreto](https://github.com/isabellapiffer/amigoSecreto) | Sorteio de amigo secreto · JavaScript |
-| [Fokus-Projeto-Base](https://github.com/isabellapiffer/Fokus-Projeto-Base) | Timer de foco no estilo Pomodoro · JavaScript |
+| [Fokus-Projeto-Base](https://github.com/isabellapiffer/Fokus-Projeto-Base) · [ver online](https://fokus-one-iota.vercel.app) | Timer de foco no estilo Pomodoro · JavaScript |
 
 <div align="center">
 
