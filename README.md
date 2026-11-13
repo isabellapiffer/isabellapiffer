@@ -2,6 +2,9 @@
 
 `Fullstack Developer em formação`
 
+Estudante de ADS | Desenvolvedora Full-Stack em formação. Criando aplicações web completas com React, Node.js, Python e SQL. Aberta a oportunidades.
+
+
 <p>
   <a href="https://www.linkedin.com/in/isabella-piffer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/isabellapiffer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -13,7 +16,7 @@
 ## Linguagens e Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,python,postgres,supabase,vite,git,github,vscode" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,python,postgres,supabase,git" alt="Tecnologias" />
 </p>
 
 ## Estatísticas
