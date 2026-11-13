@@ -16,8 +16,7 @@ Estudante de ADS | Desenvolvedora Full-Stack em formação. Criando aplicações
 ## Linguagens e Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,python,postgres,supabase,git" alt="Tecnologias" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,python,supabase" alt="Tecnologias" /></p>
 
 ## Estatísticas
 
