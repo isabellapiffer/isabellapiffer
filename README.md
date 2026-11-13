@@ -1,5 +1,4 @@
-# 👩‍💻 Isabella Piffer
-
+# 👩🏻‍💻 Isabella Piffer
 `Fullstack Developer em formação`
 
 Estudante de ADS | Desenvolvedora Full-Stack em formação. Criando aplicações web completas com React, Node.js, Python e SQL. Aberta a oportunidades.
