@@ -21,6 +21,6 @@ Estudante de ADS | Desenvolvedora Full-Stack em formação. Criando aplicações
 ## Estatísticas
 
 <p>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isabellapiffer&theme=github_dark" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isabellapiffer&theme=github_dark" alt="Linguagens mais usadas" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=isabellapiffer&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isabellapiffer&layout=compact&theme=dark" alt="Linguagens mais usadas" />
 </p>
