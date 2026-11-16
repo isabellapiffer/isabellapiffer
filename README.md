@@ -17,9 +17,3 @@ Estudante de ADS | Desenvolvedora Full-Stack em formação. Criando aplicações
 <p>
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,supabase" alt="Tecnologias" /></p>
 
-## Estatísticas
-
-<p>
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=isabellapiffer&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isabellapiffer&layout=compact&theme=dark" alt="Linguagens mais usadas" />
-</p>
